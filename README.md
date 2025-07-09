@@ -67,7 +67,7 @@ Se organizó el proyecto en carpetas para separar los archivos estáticos, las p
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/SoyEdwinCabrera/flask_personal_website.git
    cd flask_personal_website/Demo
    ```
 
